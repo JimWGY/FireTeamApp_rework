@@ -8,6 +8,48 @@
         19
       ],
       "description": "A simlple salad\n\nSteps:\n1. Cut all ingredients into small pieces\n2. Combine in one bowl and enjoy!\n"
+    },
+    {
+      "name": "Braised Eggplant",
+      "ingredientIds": [
+        13,
+        17
+      ],
+      "description": "Easy way to make braised eggplant\n\nSteps:\n1. Wash and cut the eggplant into hob blocks.\n2. Heat the oil, put the eggplant in the pan and fry it immediately.\n3. Put two spoons of oil in the pan, saute the dried chili and garlic, and then add the fried eggplant.\n4. Add soy sauce, sugar, wine, stir fry.\n5. Add a few water, salt, and soup.\n6. Add some chicken essence before cooking, sprinkle some green onion, or you can pick up the thick."
+    },
+    {
+      "name": "Beef Stew with Tomato",
+      "ingredientIds": [
+        1,
+        11,
+        18
+      ],
+      "description": "A delicacy with a rich taste, delicious sweet and sour, the main ingredients are tomato and beef\n\nSteps:\n1. Wash and cut the beef into small cubes, mince ginger and scallion.\n2. Ignite the pot and when the oil is 5-6% hot, gradually fry the beef and remove it.\n3. Leave the bottom oil in the pan and add the fried beef, put water (preferably submerged meat), add clear sauce, ginger, cooking wine, spring onion, grass fruit, salt to season.\n4. Soak the tomatoes in boiling water for a while, remove them, peel them, cut them into crescent blocks, and put them in a pot."
+    },
+    {
+      "name": "Chicken Stew with Potatoes",
+      "ingredientIds": [
+        5,
+        10,
+        18
+      ],
+      "description": "A simlple recipe for chicken.\n\nSteps:\n1. Cut the chicken into pieces, mix with salt, cooking wine, soy sauce, scallions and marinate for 15 minutes\n2. Peel and cut potatoes into 1cm cubes.\n3. Heat oil in the pan, stir-fry chicken with green onion and ginger until the chicken is discolored, most of the moisture disappears, stir-fry with soy sauce and potatoes for 2 minutes.\n4. Add water and the ingredients are flush, put salt, boil on high heat, simmer for 20 minutes on low heat, add a few dried chili to medium heat to collect the soup!"
+    },
+    {
+      "name": "Vinegar Potato Chips",
+      "ingredientIds": [
+        10,
+        17
+      ],
+      "description": "Vinegar potato chips, sour and spicy, suitable for all ages.\n\nSteps:\n1. Cut potatoes into shreds and mince garlic. Soak the shredded potatoes in the water to get the starch out, which makes it more crispy.\n2. Add hot pepper and minced garlic and saute\n3. Add dried chili and shred potatoes, stir fry, stir fry potatoes, add salt, chicken essence, vinegar and stir fry\n4. Click on the sesame oil to get out of the pan. The stir-fry process takes two or three minutes, and the fried potatoes are sour, spicy and crispy."
+    },
+    {
+      "name": "Coke Chicken",
+      "ingredientIds": [
+        5,
+        18
+      ],
+      "description": "Coke Chicken, essential dishes for New Year.\n\nSteps:\n1. Wash the chicken, boil them in scallion and ginger water, and drain.\n2. Put a little oil in the pan to heat it up and add chicken, fry until yellow on both sides of the outer skin.\n3. Pour the coke without chicken.\n4. Add soy sauce, big ingredients, spring onion, ginger slices, turn to a low heat after boiling, simmer until the soup is thick."
     }
   ]
 }
